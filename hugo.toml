@@ -18,3 +18,5 @@ theme = 'PaperMod'
     name = "Books"
     pageRef = "/books"
     weight = 3
+[params]
+	social = true
