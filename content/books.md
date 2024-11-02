@@ -1,10 +1,8 @@
 +++
 date = '2024-11-01T23:01:22Z'
-draft = true
-title = 'Books'
+draft = false
+title = 'Books I think everyone should read'
 +++
-
-# Books I think everyone should have read
 
 - [The Good Life](https://www.goodreads.com/book/show/61272271-the-good-life) - thoughts on how to live a fulfilling life.
 
