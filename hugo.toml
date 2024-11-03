@@ -20,3 +20,9 @@ theme = 'PaperMod'
     weight = 3
 [params]
 	social = true
+  keywords = ["Blog", "Portfolio"]
+  author = "Me"
+  ShowWordCount= true
+  [params.homeInfoParams]
+    title = "Welcome!"
+    content = "Below you can find my most recent blog posts. You can also find my [resume](/resume), [portfolio](/portfolio) and [recommended books](/books)."
