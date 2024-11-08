@@ -6,6 +6,7 @@ title = 'Resume'
 
 
 ## Technologies 
+- Rust
 - Node.js
 - MongoDB
 - AWS 
