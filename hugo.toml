@@ -30,3 +30,26 @@ theme = 'PaperMod'
   [params.homeInfoParams]
     title = "Welcome!"
     content = "Below you can find my most recent blog posts. You can also find my [resume](/resume), [portfolio](/portfolio) and [recommended books](/books)."
+  [[params.socialIcons]]
+  name = "Email"
+  url = "mailto://inbox@benmagill.co.uk"
+  [[params.socialIcons]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/ben-magill-7556a41a0/"
+
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4

@@ -4,7 +4,6 @@ draft = false
 title = 'Resume'
 +++
 
-
 ## Technologies 
 - Rust
 - Node.js
