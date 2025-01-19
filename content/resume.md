@@ -1,6 +1,7 @@
 +++
 date = '2024-11-02T21:46:52Z'
 draft = false
+hidemeta = true
 title = 'Resume'
 +++
 
@@ -14,7 +15,7 @@ title = 'Resume'
 - Docker
 
 ## Experience
-- MLOps Assistant Engineer @ Thrive Learning (May 2024 - Present)
+- MLOps Engineer @ Thrive Learning (May 2024 - Present)
   <!-- TODO: add -->
 - Contractor for ANTZ UK Limited (May 2024 - August 2024)
   - Setup infrastructure to host a Ruby application and Postgres Database using DigitalOcean, OpenTofu (Terraform) and Nginx.

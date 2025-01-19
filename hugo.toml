@@ -15,13 +15,17 @@ theme = 'PaperMod'
     pageRef = "/blog/"
     weight = 2
   [[menus.main]]
-    name = "Books"
-    pageRef = "/books"
+    name = "Projects"
+    pageRef = "/projects/"
     weight = 3
   [[menus.main]]
     name = "Resume"
     pageRef = "/resume"
     weight = 4
+  [[menus.main]]
+    name = "Books"
+    pageRef = "/books"
+    weight = 5
 [params]
 	social = true
   keywords = ["Blog", "Portfolio"]
@@ -29,7 +33,7 @@ theme = 'PaperMod'
   ShowWordCount= true
   [params.homeInfoParams]
     title = "Welcome!"
-    content = "Below you can find my most recent blog posts. You can also find my [resume](/resume), [portfolio](/portfolio) and [recommended books](/books)."
+    content = "I am a Computer Scientist from the UK. I am currently in my final year at the University of Sheffield studying a Bachelor's in Computer Science."
   [[params.socialIcons]]
   name = "Email"
   url = "mailto://inbox@benmagill.co.uk"
