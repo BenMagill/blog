@@ -5,6 +5,7 @@ hidemeta = true
 title = 'Books that have left an impact'
 +++
 
+- Antifragile
 - [The Good Life](https://www.goodreads.com/book/show/61272271-the-good-life) - thoughts on how to live a fulfilling life.
 
 - [Tuesdays with Morrie](https://www.goodreads.com/book/show/22452351-tuesdays-with-morrie-mori-wa-hamkkehan-hwayoil)
